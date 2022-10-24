@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 packcc <josh@paxdev.io> 1638313818 -0800	branch: Created from HEAD
+37f2322e97f7ddd07e8aa88ad467c654f842c5a8 e975819d9cd330888cd2739322503cb6250d76d5 packcc <josh@paxdev.io> 1638313900 -0800	rebase (finish): refs/heads/working_dev onto b2aeea6225b92392ec7445f8daeacaca4a8450da
+e975819d9cd330888cd2739322503cb6250d76d5 e0e640d4e10286156fa7a6bf932c34557af37961 packcc <josh@paxdev.io> 1638314644 -0800	commit: somewhat fully working without YGI
+e0e640d4e10286156fa7a6bf932c34557af37961 2ccfed4dcbdafa9c7a2bf28ade0ba13c772b587d packcc <josh@paxdev.io> 1638392743 -0800	commit: semi working
+2ccfed4dcbdafa9c7a2bf28ade0ba13c772b587d 77a7ccaa35856e5edfde3158c255ae4025a318a9 packcc <josh@paxdev.io> 1638399926 -0800	commit: ygi page now showing, still not fully working tho
+77a7ccaa35856e5edfde3158c255ae4025a318a9 f978e2ab79569ccd164ce2876898c1e5b6ca14e7 packcc <josh@paxdev.io> 1638406295 -0800	commit: working?
+f978e2ab79569ccd164ce2876898c1e5b6ca14e7 bc6a4f1efaa0428439bc7977c55accc3667651b2 packcc <josh@paxdev.io> 1638488070 -0800	commit: somewhat fixed
+bc6a4f1efaa0428439bc7977c55accc3667651b2 6a3334f6f38892430d72dc563da00b04cae96b3b packcc <josh@paxdev.io> 1638916866 -0800	commit: Fully working, Added Connection and Settings classes.
+6a3334f6f38892430d72dc563da00b04cae96b3b 65c12affcac498782e61744ed43de38edff486d8 packcc <josh@paxdev.io> 1638919252 -0800	commit: updated Settings.cs
+65c12affcac498782e61744ed43de38edff486d8 185766947b7497b99a810cac5457aeb307807683 packcc <josh@paxdev.io> 1639436419 -0800	commit: added connections - working
+185766947b7497b99a810cac5457aeb307807683 df1b1195faa5fac72d70688abb89a5b13e2edfa9 packcc <josh@paxdev.io> 1639437689 -0800	commit: BOTH PLATFORMS WORKING W/ GAMELIST
+df1b1195faa5fac72d70688abb89a5b13e2edfa9 bae60d054b8f8323116f0bd09a13c4449a43d636 packcc <josh@paxdev.io> 1643228058 -0800	commit: More changes, getting close.
+bae60d054b8f8323116f0bd09a13c4449a43d636 66e3d33e76926dff7254d5550d4c463ce426e668 packcc <josh@paxdev.io> 1646680032 -0800	commit: na
+66e3d33e76926dff7254d5550d4c463ce426e668 74401a462aea24d47d23a301ec7c81b70995c919 packcc <josh@paxdev.io> 1647363556 -0700	commit: fixes
+74401a462aea24d47d23a301ec7c81b70995c919 7f1d2617ecf37c4ba7e9cb3bde74a424607ce73c packcc <josh@paxdev.io> 1647364518 -0700	commit: working?
+7f1d2617ecf37c4ba7e9cb3bde74a424607ce73c a77be71a8d059ee26b885008d7529b3adf99e738 Josh Work <josh.pack@gmail.com> 1651004757 -0700	commit: ok
+a77be71a8d059ee26b885008d7529b3adf99e738 95b4e8c32aac0e6dda2d1f93f43375e3286f550f Josh Work <packcancode@gmail.com> 1651513520 -0700	commit: fully working on droid
+95b4e8c32aac0e6dda2d1f93f43375e3286f550f 95b41a910f20d1ba7d2b1cbb0ccd378aeaf27518 Josh Pack <pack@Joshs-MBP.ORANGEDOORMUSIC> 1666632925 -0700	commit: $argv[1..-1]
+95b41a910f20d1ba7d2b1cbb0ccd378aeaf27518 95b41a910f20d1ba7d2b1cbb0ccd378aeaf27518 Josh Pack <pack@Joshs-MBP.ORANGEDOORMUSIC> 1666633134 -0700	Branch: renamed refs/heads/working_dev to refs/heads/main

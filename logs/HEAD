@@ -1,0 +1,46 @@
+0000000000000000000000000000000000000000 b2aeea6225b92392ec7445f8daeacaca4a8450da Josh Pack <pack@Joshs-Air.PAXSOLUTIONS.NET> 1637285616 -0800	clone: from https://github.com/packcc/GameCenterRemote.git
+b2aeea6225b92392ec7445f8daeacaca4a8450da ba0e9f0e541abfeac61e2578516c2dae3a82deff Josh Pack <pack@Joshs-Air.PAXSOLUTIONS.NET> 1637306348 -0800	checkout: moving from main to dev
+ba0e9f0e541abfeac61e2578516c2dae3a82deff 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 packcc <josh@paxdev.io> 1637621756 -0800	commit: f
+37f2322e97f7ddd07e8aa88ad467c654f842c5a8 abec716baab1d6ddf6db7e6625bec077b905f8c1 packcc <josh@paxdev.io> 1637689139 -0800	commit: a
+abec716baab1d6ddf6db7e6625bec077b905f8c1 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 packcc <josh@paxdev.io> 1637692339 -0800	checkout: moving from dev to 37f2322e97f7ddd07e8aa88ad467c654f842c5a8
+37f2322e97f7ddd07e8aa88ad467c654f842c5a8 b9dbbbc7505ae26eabdcb8731dc407b75568c71f packcc <josh@paxdev.io> 1638312187 -0800	commit: a
+b9dbbbc7505ae26eabdcb8731dc407b75568c71f 4c0c834b6622b8bd9b89e6c35b402dac4eafbeb0 packcc <josh@paxdev.io> 1638312533 -0800	checkout: moving from b9dbbbc7505ae26eabdcb8731dc407b75568c71f to 4c0c834b6622b8bd9b89e6c35b402dac4eafbeb0
+4c0c834b6622b8bd9b89e6c35b402dac4eafbeb0 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 packcc <josh@paxdev.io> 1638312570 -0800	checkout: moving from 4c0c834b6622b8bd9b89e6c35b402dac4eafbeb0 to 37f2322e97f7ddd07e8aa88ad467c654f842c5a8
+37f2322e97f7ddd07e8aa88ad467c654f842c5a8 8972032573dc3d2b8e1a74d7d8303c4f9f03ff8f packcc <josh@paxdev.io> 1638313536 -0800	commit: Working full without YGI working
+8972032573dc3d2b8e1a74d7d8303c4f9f03ff8f abec716baab1d6ddf6db7e6625bec077b905f8c1 packcc <josh@paxdev.io> 1638313694 -0800	checkout: moving from 8972032573dc3d2b8e1a74d7d8303c4f9f03ff8f to dev
+abec716baab1d6ddf6db7e6625bec077b905f8c1 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 packcc <josh@paxdev.io> 1638313777 -0800	checkout: moving from dev to 37f2322e97f7ddd07e8aa88ad467c654f842c5a8
+37f2322e97f7ddd07e8aa88ad467c654f842c5a8 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 packcc <josh@paxdev.io> 1638313818 -0800	checkout: moving from 37f2322e97f7ddd07e8aa88ad467c654f842c5a8 to working_dev
+37f2322e97f7ddd07e8aa88ad467c654f842c5a8 b2aeea6225b92392ec7445f8daeacaca4a8450da packcc <josh@paxdev.io> 1638313900 -0800	rebase (start): checkout origin/main
+b2aeea6225b92392ec7445f8daeacaca4a8450da 35147126945faa994bfd8e0b74d6df4f0f0c2c31 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): added LogViewModel.cs
+35147126945faa994bfd8e0b74d6df4f0f0c2c31 d3fa1d3bd5d602478cf11e41d3a08edc8f2a2ff6 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): Fixed ConnectionPage.xaml
+d3fa1d3bd5d602478cf11e41d3a08edc8f2a2ff6 1a0887a128c22ac70e6026c86c2b3cf6a31dc3bd packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): fixed TeamsPage.xaml
+1a0887a128c22ac70e6026c86c2b3cf6a31dc3bd 7a5a02cb8274ae55fdc3ac204e557f22ab19341c packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+7a5a02cb8274ae55fdc3ac204e557f22ab19341c cc06f290f58d255726ae059f6820510f38e1daf7 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): fixed log
+cc06f290f58d255726ae059f6820510f38e1daf7 3c34849bd151d442ccbca9859681fecd82fdb571 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+3c34849bd151d442ccbca9859681fecd82fdb571 68e92d8f5b0d0f5e5497ab7bf0b52de3ce24b33a packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+68e92d8f5b0d0f5e5497ab7bf0b52de3ce24b33a d74fade6a969d271389d19697e98d2b11f9df6ec packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+d74fade6a969d271389d19697e98d2b11f9df6ec 65d4e94aead27bd66d7d8d96c069f909c582a7c3 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+65d4e94aead27bd66d7d8d96c069f909c582a7c3 a2aa945c20756a91fe136cbfe9ab1498809788ae packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+a2aa945c20756a91fe136cbfe9ab1498809788ae dc09060bf9b64724a69a21f26e16755dc48e04d7 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): a
+dc09060bf9b64724a69a21f26e16755dc48e04d7 e975819d9cd330888cd2739322503cb6250d76d5 packcc <josh@paxdev.io> 1638313900 -0800	rebase (pick): f
+e975819d9cd330888cd2739322503cb6250d76d5 e975819d9cd330888cd2739322503cb6250d76d5 packcc <josh@paxdev.io> 1638313900 -0800	rebase (finish): returning to refs/heads/working_dev
+e975819d9cd330888cd2739322503cb6250d76d5 e0e640d4e10286156fa7a6bf932c34557af37961 packcc <josh@paxdev.io> 1638314644 -0800	commit: somewhat fully working without YGI
+e0e640d4e10286156fa7a6bf932c34557af37961 2ccfed4dcbdafa9c7a2bf28ade0ba13c772b587d packcc <josh@paxdev.io> 1638392743 -0800	commit: semi working
+2ccfed4dcbdafa9c7a2bf28ade0ba13c772b587d 77a7ccaa35856e5edfde3158c255ae4025a318a9 packcc <josh@paxdev.io> 1638399926 -0800	commit: ygi page now showing, still not fully working tho
+77a7ccaa35856e5edfde3158c255ae4025a318a9 f978e2ab79569ccd164ce2876898c1e5b6ca14e7 packcc <josh@paxdev.io> 1638406295 -0800	commit: working?
+f978e2ab79569ccd164ce2876898c1e5b6ca14e7 bc6a4f1efaa0428439bc7977c55accc3667651b2 packcc <josh@paxdev.io> 1638488070 -0800	commit: somewhat fixed
+bc6a4f1efaa0428439bc7977c55accc3667651b2 6a3334f6f38892430d72dc563da00b04cae96b3b packcc <josh@paxdev.io> 1638916866 -0800	commit: Fully working, Added Connection and Settings classes.
+6a3334f6f38892430d72dc563da00b04cae96b3b 65c12affcac498782e61744ed43de38edff486d8 packcc <josh@paxdev.io> 1638919252 -0800	commit: updated Settings.cs
+65c12affcac498782e61744ed43de38edff486d8 185766947b7497b99a810cac5457aeb307807683 packcc <josh@paxdev.io> 1639436419 -0800	commit: added connections - working
+185766947b7497b99a810cac5457aeb307807683 df1b1195faa5fac72d70688abb89a5b13e2edfa9 packcc <josh@paxdev.io> 1639437689 -0800	commit: BOTH PLATFORMS WORKING W/ GAMELIST
+df1b1195faa5fac72d70688abb89a5b13e2edfa9 bae60d054b8f8323116f0bd09a13c4449a43d636 packcc <josh@paxdev.io> 1643228058 -0800	commit: More changes, getting close.
+bae60d054b8f8323116f0bd09a13c4449a43d636 66e3d33e76926dff7254d5550d4c463ce426e668 packcc <josh@paxdev.io> 1646680032 -0800	commit: na
+66e3d33e76926dff7254d5550d4c463ce426e668 74401a462aea24d47d23a301ec7c81b70995c919 packcc <josh@paxdev.io> 1647363556 -0700	commit: fixes
+74401a462aea24d47d23a301ec7c81b70995c919 7f1d2617ecf37c4ba7e9cb3bde74a424607ce73c packcc <josh@paxdev.io> 1647364518 -0700	commit: working?
+7f1d2617ecf37c4ba7e9cb3bde74a424607ce73c a77be71a8d059ee26b885008d7529b3adf99e738 Josh Work <josh.pack@gmail.com> 1651004757 -0700	commit: ok
+a77be71a8d059ee26b885008d7529b3adf99e738 95b4e8c32aac0e6dda2d1f93f43375e3286f550f Josh Work <packcancode@gmail.com> 1651513520 -0700	commit: fully working on droid
+95b4e8c32aac0e6dda2d1f93f43375e3286f550f b2aeea6225b92392ec7445f8daeacaca4a8450da Josh Work <packcancode@gmail.com> 1651513557 -0700	checkout: moving from working_dev to main
+b2aeea6225b92392ec7445f8daeacaca4a8450da 95b4e8c32aac0e6dda2d1f93f43375e3286f550f Josh Work <packcancode@gmail.com> 1651513562 -0700	checkout: moving from main to working_dev
+95b4e8c32aac0e6dda2d1f93f43375e3286f550f 95b41a910f20d1ba7d2b1cbb0ccd378aeaf27518 Josh Pack <pack@Joshs-MBP.ORANGEDOORMUSIC> 1666632925 -0700	commit: $argv[1..-1]
+95b41a910f20d1ba7d2b1cbb0ccd378aeaf27518 0000000000000000000000000000000000000000 Josh Pack <pack@Joshs-MBP.ORANGEDOORMUSIC> 1666633134 -0700	Branch: renamed refs/heads/working_dev to refs/heads/main
+0000000000000000000000000000000000000000 95b41a910f20d1ba7d2b1cbb0ccd378aeaf27518 Josh Pack <pack@Joshs-MBP.ORANGEDOORMUSIC> 1666633134 -0700	Branch: renamed refs/heads/working_dev to refs/heads/main
